@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "NMZ652N4C2.com.houseinven.app",
+        "paths": [ "*", "/*" ]
+      }
+    ]
+  }
+}
